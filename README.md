@@ -13,4 +13,11 @@ described from a statistical mechanics perspective
 [here](https://arxiv.org/abs/1609.00334), and illustrated
 [here](https://mathusersguides.com/enchiridion-vol-2-2016-mike-catanzaro/).
 
-## 
+## Visualizations
+
+The above references contain various figures that might be helpful for
+understanding these random processes. In addition, I have included a python
+script for generating processes on a torus. The output is given in
+`torus_walk_slider.html`. An interactive version can be found here:
+
+
